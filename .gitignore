@@ -1,0 +1,8 @@
+.vscode/settings.json
+__pycache__/config.cpython-313.pyc
+__pycache__/crawler.cpython-313.pyc
+__pycache__/parser_module.cpython-313.pyc
+__pycache__/request_layer.cpython-313.pyc
+__pycache__/request_module.cpython-313.pyc
+__pycache__/storage_module.cpython-313.pyc
+debug_html/debug_antibot_200_1758178766.html
